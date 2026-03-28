@@ -1,0 +1,41 @@
+---Email 1 Topic:- Writing an email by a student to their professor requesting an extension on an assignment submission deadline.---
+
+
+Subject: Request for Extension on Assignment Submission Deadline.
+
+Dear Professor ,
+I hope this finds you well. I am writing to respectfully request an extension for the submission of the Computational Chemistry assignment on "Hydrogen Spectrum",which is currently due on 30th March, 2026. Due to overlapping academic commitments, I am concerned that I may not be able to complete the assignment to the desired standard within the given deadline.
+I sincerely value the importance of this assignment and would like to request an extension until 7th April,2026.This additional time will allow me to ensure that my work meets the expected standards. 
+
+I apologize for any inconvenience this request may cause and appreciate your understanding and consideration.
+
+Thank you for your time.
+
+Sincerely,
+Sanchayan Banerjee
+Reg No.:-25BCE11022
+Branch:-CSE CORE
+First Year , VIT Bhopal University
+ 
+
+---Email 2 Topic:- Writing an email by a student to an internship coordinator at a company,expressing interest in a summer internship opportunity.---
+
+
+
+Subject: Inquiry Regarding Summer Internship Opportunity 
+
+Dear Sir/Ma'am,
+I hope this finds you well. My name is Sanchayan Banerjee and I am currently a first year B.Tech student pursuing computer Science and engineering from VIT Bhopal. I am writing to express my interest in potential summer internship opportunities at your organization.
+I am particularly interested in gaining practical experience in areas such as programming, problem solving and machine learning. I have been actively developing my skills in C++ and have also started explorig concepts in artificial intelligence and data analysis.
+I am eager to apply my knowledge in a real world environment and learn from experienced professionals. I would greatly appreciate any information regarding available internship positions, application procedures or required qualifications.
+
+Please find my resume attached for your consideration. I would be grateful for the opportunity to contribute to your organization while further developing my skills.
+
+Thank you for your time and consideration. I look forward to your response.
+
+Sincerely,
+Sanchayan Banerjee
+Email address:- sanchayan.25bce11022@vitbhopal.ac.in
+Contact Number:- +91 XXXXXXXX28
+Branch:- CSE CORE
+First Year, VIT Bhopal University
