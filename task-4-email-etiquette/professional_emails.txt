@@ -26,7 +26,7 @@ Subject: Inquiry Regarding Summer Internship Opportunity
 
 Dear Sir/Ma'am,
 I hope this finds you well. My name is Sanchayan Banerjee and I am currently a first year B.Tech student pursuing computer Science and engineering from VIT Bhopal. I am writing to express my interest in potential summer internship opportunities at your organization.
-I am particularly interested in gaining practical experience in areas such as programming, problem solving and machine learning. I have been actively developing my skills in C++ and have also started explorig concepts in artificial intelligence and data analysis.
+I am particularly interested in gaining practical experience in areas such as programming, problem solving and machine learning. I have been actively developing my skills in C++ and have also started exploring concepts in artificial intelligence and data analysis.
 I am eager to apply my knowledge in a real world environment and learn from experienced professionals. I would greatly appreciate any information regarding available internship positions, application procedures or required qualifications.
 
 Please find my resume attached for your consideration. I would be grateful for the opportunity to contribute to your organization while further developing my skills.
