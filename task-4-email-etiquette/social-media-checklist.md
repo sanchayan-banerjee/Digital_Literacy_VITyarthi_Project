@@ -9,6 +9,6 @@
 ## List of Don'ts to be aware of are as follows:-
 - Do not share offensive, abusive or inappropriate content.
 - Avoid posting confidential or sensitive personal information. 
-- Do not engage in online argments or toxic discussions.
+- Do not engage in online arguments or toxic discussions.
 - Avoid spreading rumors or unverified news.
 - Do not post content that could potentially harm your academic or professional reputation.
