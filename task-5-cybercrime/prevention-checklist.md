@@ -20,6 +20,6 @@
 ## Reporting Cyber Crimes:
 If you become a victim of cyber fraud, report immediately:
 - **National Cyber Crime Portal :** https://cybercrime.gov.in
-- **Helpline Number :** 1930
+- **Helpline Number (24x7 phone) :** 1930
 
 Timely reporting can help in recovering lost funds and preventing further damage.
