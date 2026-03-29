@@ -9,6 +9,6 @@ These scams commonly target students, small sellers and individuals unfamiliar w
 ## Consequences of the crime:
 The consequences include immediate financial loss, mental stress and difficulty in recovering the stolen amount.
 ## Preventive Measures:
-This type of fraud can be prevented by keeping in mind that entering a UPI PIN always authorizes payment, not receiving money. Users should never approve unknown transaction requests or share OTPs. Increasing awareness and verifying transactions carefully are essential steps in averting such cybercrimes.
+This type of fraud can be prevented by keeping in mind that entering a UPI PIN always authorizes a payment and does not mean receiving money. Users should never approve unknown transaction requests or share OTPs. Increasing awareness and verifying transactions carefully are essential steps in averting such cybercrimes.
 
 Source: The Times of India, multiple reports on UPI fraud incidents in India (2023-2024).
